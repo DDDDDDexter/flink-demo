@@ -23,7 +23,10 @@ under the License.
 	<groupId>com.dexter.flink</groupId>
 	<artifactId>flink-demo</artifactId>
 	<version>1.0</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>flink-demo-core</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>Flink Quickstart Job</name>
 	<url>http://www.myorganization.org</url>
