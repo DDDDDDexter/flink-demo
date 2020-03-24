@@ -3,7 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flink-demo.iml" filepath="$PROJECT_DIR$/flink-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-common/flink-demo-common.iml" filepath="$PROJECT_DIR$/flink-demo-common/flink-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-connectors/flink-demo-connectors.iml" filepath="$PROJECT_DIR$/flink-demo-connectors/flink-demo-connectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-demo-core/flink-demo-core.iml" filepath="$PROJECT_DIR$/flink-demo-core/flink-demo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-sinks/flink-demo-sinks.iml" filepath="$PROJECT_DIR$/flink-demo-sinks/flink-demo-sinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-sources/flink-demo-sources.iml" filepath="$PROJECT_DIR$/flink-demo-sources/flink-demo-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-sql/flink-demo-sql.iml" filepath="$PROJECT_DIR$/flink-demo-sql/flink-demo-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-state/flink-demo-state.iml" filepath="$PROJECT_DIR$/flink-demo-state/flink-demo-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-demo-window/flink-demo-window.iml" filepath="$PROJECT_DIR$/flink-demo-window/flink-demo-window.iml" />
     </modules>
   </component>
 </project>

@@ -25,7 +25,14 @@ under the License.
 	<version>1.0</version>
     <modules>
         <module>flink-demo-core</module>
-    </modules>
+		<module>flink-demo-sql</module>
+		<module>flink-demo-sinks</module>
+		<module>flink-demo-sources</module>
+		<module>flink-demo-common</module>
+		<module>flink-demo-window</module>
+		<module>flink-demo-connectors</module>
+		<module>flink-demo-state</module>
+	</modules>
     <packaging>pom</packaging>
 
 	<name>Flink Quickstart Job</name>

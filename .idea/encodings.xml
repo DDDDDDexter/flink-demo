@@ -2,5 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-connectors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-sinks" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-sources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-state" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-demo-window" charset="UTF-8" />
   </component>
 </project>

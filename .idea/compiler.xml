@@ -6,11 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flink-demo" />
+        <module name="flink-demo-state" />
+        <module name="flink-demo-sources" />
+        <module name="flink-demo-connectors" />
+        <module name="flink-demo-sinks" />
+        <module name="flink-demo-core" />
+        <module name="flink-demo-sql" />
+        <module name="flink-demo-common" />
+        <module name="flink-demo-window" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flink-demo" target="1.8" />
+      <module name="flink-demo-common" target="1.8" />
+      <module name="flink-demo-connectors" target="1.8" />
+      <module name="flink-demo-core" target="1.8" />
+      <module name="flink-demo-sinks" target="1.8" />
+      <module name="flink-demo-sources" target="1.8" />
+      <module name="flink-demo-sql" target="1.8" />
+      <module name="flink-demo-state" target="1.8" />
+      <module name="flink-demo-window" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
